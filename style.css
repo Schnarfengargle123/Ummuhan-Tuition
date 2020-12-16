@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.navBar {
+    width: 100vw;
+    height: 10vh;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
